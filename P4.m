@@ -1,6 +1,6 @@
                             %% Sparse Blind Deconvolution
                             %% Part 4
-file = load('hw7.mat');
+file = load('Data.mat');
 x = file.x1;
 K = 5;
 L = 100;
